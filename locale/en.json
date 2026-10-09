@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Balance & Session Cost",
+    "description": "Show DeepSeek API balance and this session's estimated cost (official per-request billing) in the composer stats strip."
+  }
+}

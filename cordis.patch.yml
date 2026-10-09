@@ -1,0 +1,4 @@
+# @fenzhenhua123/dsh-balance-meter 插件包补丁层：向 Loader 插入本插件的宿主条目。
+- insert:
+    - id: balance-meter
+      name: "@fenzhenhua123/dsh-balance-meter"
